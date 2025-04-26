@@ -380,6 +380,9 @@ video{
     }
 }
 /*seccion del chef*/
+.imagen-chef img {
+    border-radius: 2rem;
+}
 .chef h2{
     background-color: var(--rojo);
     display: inline-block;
